@@ -3,7 +3,7 @@ layout: page
 title: About me
 subtitle: Who am I?
 ---
-<img src="assets/31831587.png" class="img-responsive" alt=""> 
+<img src="assets/img/31831587.png" class="img-responsive" alt=""> 
 
 Hello,
 
