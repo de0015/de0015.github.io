@@ -16,9 +16,9 @@ author: Daniel Efaw
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+    - My Data Science Portfolio: "https://github.com/de0015/Data-Science-Portfolio"
+    - Python Portfolio: "https://github.com/de0015/Python"
+ # Author's home: "https://deanattali.com"
 
 # --- Logo --- #
 
