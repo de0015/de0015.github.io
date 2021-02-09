@@ -7,7 +7,7 @@ subtitle: Who am I?
 
 Hello,
 
-My name is Daniel Efaw and I would like to start off by thanking you for visiting my online portfolio.
+My name is Daniel Efaw and I would like to start off by thanking you for stopping by.
 
 I am a graduate of West Virginia University with a Masters of Science in Business Data Analytics.
 
