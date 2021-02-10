@@ -6,8 +6,10 @@ subtitle: Who am I?
 
 
 
+<p align="center">
+  <img src="assets/img/31831587.png" class="img-responsive" alt=""> 
+</p>
 
-<img src="assets/img/31831587.png" class="img-responsive" alt=""> 
 
 Hello,
 
