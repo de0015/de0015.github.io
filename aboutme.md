@@ -7,7 +7,7 @@ subtitle: Who am I?
 
 
 <p align="center">
-  <img src="assets/img/31831587.png" class="img-responsive" alt=""> 
+  <img src="http://de0015.github.io/assets/img/31831587.png" class="img-responsive" alt=""> 
 </p>
 
 
