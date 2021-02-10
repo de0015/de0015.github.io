@@ -15,10 +15,10 @@ author: Daniel Efaw
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
+  Links:
     - My Data Science Portfolio: "https://github.com/de0015/Data-Science-Portfolio"
     - Python Portfolio: "https://github.com/de0015/Python"
- # Author's home: "https://deanattali.com"
+  
 
 # --- Logo --- #
 
