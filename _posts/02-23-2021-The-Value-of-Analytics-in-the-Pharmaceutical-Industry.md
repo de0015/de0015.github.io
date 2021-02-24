@@ -1,7 +1,6 @@
 ---
-title: "The Value of Analytics in Pharmaceuticals"
-author: "Daniel Efaw"
-date: \today
+title: The Value of Analytics in Pharmaceuticals
+author: Daniel Efaw
 output: 
   html_document:
     keep_md: true
