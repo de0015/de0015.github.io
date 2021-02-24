@@ -39,7 +39,8 @@ Thank you again for visiting. If you would like to reach out to me, you can do s
 
 My personal motto:
 
-As an engineer, we have the honor of being the architect of others' dreams. It's up to us to ensure that dream is built to exceed their expectations.
+> As an engineer, we have the honor of being the architect of others' dreams. 
+> It's up to us to ensure that dream is built to exceed their expectations.
 
 Education
 
