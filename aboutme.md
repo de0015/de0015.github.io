@@ -43,10 +43,10 @@ As an engineer, we have the honor of being the architect of others' dreams. It's
 
 Education
 
--August 2018, Master of Science of Business Data Analytics, *West Virginia University
--December 2016, Master of Science of Business Administration, *Fairmont State University
--August 2015, Bachelor of Arts of Political Science, *Fairmont State University
--August 2015, Bachelor of Arts of National Security & Intelligence, *Fairmont State University
+- August 2018, Master of Science of Business Data Analytics, *West Virginia University
+- December 2016, Master of Science of Business Administration, *Fairmont State University
+- August 2015, Bachelor of Arts of Political Science, *Fairmont State University
+- August 2015, Bachelor of Arts of National Security & Intelligence, *Fairmont State University
 
 Skillset
 * SQL
