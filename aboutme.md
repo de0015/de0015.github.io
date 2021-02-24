@@ -42,26 +42,26 @@ My personal motto:
 As an engineer, we have the honor of being the architect of others' dreams. It's up to us to ensure that dream is built to exceed their expectations.
 
 Education
-August 2018, Master of Science of Business Data Analytics, *West Virginia University
-December 2016, Master of Science of Business Administration, *Fairmont State University
-August 2015, Bachelor of Arts of Political Science, *Fairmont State University
-August 2015, Bachelor of Arts of National Security & Intelligence, *Fairmont State University
+
+-August 2018, Master of Science of Business Data Analytics, *West Virginia University
+-December 2016, Master of Science of Business Administration, *Fairmont State University
+-August 2015, Bachelor of Arts of Political Science, *Fairmont State University
+-August 2015, Bachelor of Arts of National Security & Intelligence, *Fairmont State University
 
 Skillset
-SQL
-R
-Python
-Machine learning
-Kotlin
-Swift
-Data Collection
-Software Background
-Microsoft Suite
-Linux
-Spark
-Hadoop
-Vulnerability Scanners
-Tableau
-IOT Technologies
-Blockchain Technologies
-UI Design
+* SQL
+* R
+* Python
+* Machine learning
+* Kotlin
+* Swift
+* Data Collection
+* Microsoft Suite
+* Linux
+* Spark
+* Hadoop
+* Vulnerability Scanners
+* Tableau
+* IOT Technologies
+* Blockchain Technologies
+* UI Design
