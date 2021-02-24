@@ -5,6 +5,8 @@ date: \today
 output: 
   html_document:
     keep_md: true
+    layout: post
+    tags: [Pharmaceuticals, Analytics, Value Driving]
 ---
 
 The field of analytics has always been a staple of industry. Early versions of this were embodied as ad hoc reports in which records were presented in both spreadsheet format with oral presentation and later on as graphical representations. These reports were often viewed with the intent of adjusting business strategy in more of a retrospective view. In the pharmaceutical industry, this can mean always being a step behind. 
