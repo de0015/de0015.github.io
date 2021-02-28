@@ -14,6 +14,7 @@ author: Daniel Efaw
 # --- List of links in the navigation bar --- #
 
 navbar-links:
+  Medium: "https://medium.com/@daniel_efaw"
   About Me: "aboutme"
   Portfolio Links:
     - My Data Science Portfolio: "https://github.com/de0015/Data-Science-Portfolio"
