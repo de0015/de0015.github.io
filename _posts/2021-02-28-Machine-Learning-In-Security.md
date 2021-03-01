@@ -2,7 +2,7 @@
 layout: post
 title: Machine Learning in Security
 subtitle: Chasing the unseen threat with analytics
-tags: AI, Data Analytics, Machine Learning, Security AI]
+tags: AI, Data Analytics, Machine Learning, Security AI
 comments: true
 ---
 
