@@ -15,9 +15,7 @@ author: Daniel Efaw
 
 navbar-links:
    About Me: "aboutme"
-     Linkedin: "https://www.linkedin/daniel-efaw/"
-     Facebook: "https://www.facebook.com/daniel.efaw"
-    Medium: "https://medium.com/@daniel-efaw"
+   Medium: "https://medium.com/@daniel-efaw"
   Portfolio Links:
     - My Data Science Portfolio: "https://github.com/de0015/Data-Science-Portfolio"
     - Python Portfolio: "https://github.com/de0015/Python"
