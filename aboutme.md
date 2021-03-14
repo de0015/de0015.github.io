@@ -21,26 +21,16 @@ In addition to my degree in Data Analytics, I have 3 additional degrees: Masters
 
 After I graduated with both of my Bachelors, I was unsure of what I wanted to do. My love for the business world came at a strange time in my life.
 
-A friend of mine was discussing the challenges of international business and how difficult it was to understand the differences between economies and political structure. My experience in understanding what drives certain economic policy opened up a whole new curiosity. Subsequently, I enrolled in the Masters of Business program.
+A friend of mine was discussing the challenges of international business and how difficult it was to understand the differences between economies and political structure. My experience in understanding what drives certain economic policy opened up a whole new curiosity. 
 
 Shortly after graduating from my MBA, I found a new avenue to explore pertaining to my education and aspirations.
 
-My MBA taught me a great deal about leadership and understanding the types of reports often faced by leadership within any given company. However, my undergraduate in Security & Intelligence taught me that there are always forces that influence every decision and rule or policy. By taking this mantra and applying it to business, it led me to my degree in Data Analytics.
+My MBA taught me a great deal about leadership and understanding the types of reports often faced by leadership within any given company. However, my undergraduate in Security & Intelligence taught me that there are always forces that influence every decision and rule or policy. 
 
 Some of the things that I really enjoy about Business/Data Analytics are that there are so many aspects that drive every decision that impacts a company. Data that is often overlooked and forgotten about could potentially lead to new discoveries. For example, these discoveries may include a new market, new customer base, new products or new cost savings. Sometimes, the ladder can mean the difference between a thriving company and a bankruptcy filing.
 
-My experience working with intelligence professionals and the international business community has taught me valuable skills such as understanding the driving factors that influence not only governments but, the business community and policy.
 
-If you would like to see some of my work, links are available below.
 
-In my spare time, I enjoy learning all kinds of new things. I am known to tinker with various technologies to repurpose them. My latest project was to utilize a raspberry pi to build a web interface for my smart home devices.
-
-Thank you again for visiting. If you would like to reach out to me, you can do so through the contact me page or by LinkedIn at the link below.
-
-My personal motto:
-
-> As an engineer, we have the honor of being the architect of others' dreams. 
-> It's up to us to ensure that dream is built to exceed their expectations.
 
 Education
 

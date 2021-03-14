@@ -14,8 +14,10 @@ author: Daniel Efaw
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Medium: "https://medium.com/@daniel_efaw"
   About Me: "aboutme"
+  ContacConnect with Me:
+    - LinkedIn: "https://www.linkedin.com/in/daniel-efaw/"
+  Medium: "https://medium.com/@daniel_efaw"
   Portfolio Links:
     - My Data Science Portfolio: "https://github.com/de0015/Data-Science-Portfolio"
     - Python Portfolio: "https://github.com/de0015/Python"
@@ -81,7 +83,7 @@ share-links-active:
 url-pretty: "de0015@github.io"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
-excerpt_length: 50
+excerpt_length: 5025
 
 # Whether or not to show an excerpt for every blog post in the feed page
 feed_show_excerpt: true
