@@ -17,6 +17,7 @@ navbar-links:
    About Me: "aboutme"
    Contact Me:
     - linkedin: in/daniel-efaw/
+    - facebook: daniel.efaw
     Medium: "https://medium.com/@daniel-efaw"
   Portfolio Links:
     - My Data Science Portfolio: "https://github.com/de0015/Data-Science-Portfolio"
