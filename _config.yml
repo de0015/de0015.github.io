@@ -19,7 +19,6 @@ navbar-links:
     - LinkedIn: "https://www.linkedin.com/in/daniel-efaw/"
   Medium: "https://medium.com/@daniel_efaw"
    About Me: "aboutme"
-   Posts: "_posts"
    Medium: "https://medium.com/@daniel-efaw"
   Portfolio Links:
     - My Data Science Portfolio: "https://github.com/de0015/Data-Science-Portfolio"
@@ -95,7 +94,7 @@ feed_show_excerpt: true
 feed_show_tags: true
 
 # The keywords to associate with your website, for SEO purposes
-#keywords: "my,list,of,keywords"
+keywords: "Daniel Efaw, Daniel Efaw Morgantown, Data Scientist, Business Strategy"
 
 # --- Colours / background image --- #
 
