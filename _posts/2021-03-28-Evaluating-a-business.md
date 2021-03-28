@@ -6,6 +6,8 @@ tags: Business Health, Data Analytics, Holistic evaluation
 comments: true
 ---
 ![Alt text](/assets/img/Bizhealth.jpg)
+
+&nbsp;
 This post is a little bit different in the respect that its not going to be as straight forward informational as some the others. One of the things that always seemed to peak my interest is taking a deep dive into a company and seeing how things tick/work/move within that organization. As strange as it may sound, I personally have always found it easier to think of business and entities as a fully functional organism. 
 
 Now that may seem about as strange as it could possibly get but stick with me here and I will explain. My previous life was centered on healthcare and the delivery of said healthcare. I came to understand that you can have someone present perfectly healthy at the first presentation but end up finding out they have a 90% blockage of a coronary artery which is going to kill them. Some of the sickest patients I ever treated initially presented as non-emergent. 
