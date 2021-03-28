@@ -17,10 +17,11 @@ navbar-links:
   About Me: "aboutme"
   Connect with Me:
     - LinkedIn: "https://www.linkedin.com/in/daniel-efaw/"
-  Medium: "https://medium.com/@daniel_efaw"
+    - Email Me: "mailto:Daniel_efaw@yahoo.com"
   Portfolio Links:
     - My Data Science Portfolio: "https://github.com/de0015/Data-Science-Portfolio"
     - Python Portfolio: "https://github.com/de0015/Python"
+    - Medium: "https://medium.com/@daniel_efaw"
   Shiny Apps:
     - Social Media Machine: "https://de0105.shinyapps.io/SocialMediaMachine/"
   
